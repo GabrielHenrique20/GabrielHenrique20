@@ -13,7 +13,7 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
   <div>
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/963867196889649164/983452129069002812/luffy_gif.gif">
+    <img align="right" alt="Luffy-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/963867196889649164/983456385587097610/download.jpg">
   
   </div>
 
