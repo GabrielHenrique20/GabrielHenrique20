@@ -1,4 +1,4 @@
-### Olá! Eu sou GabrielHenrique20, estudante de Ciência da Compitação na PUC MINAS!
+### Olá! Eu sou Gabriel Henrique, estudante de Ciência da Compitação na PUC MINAS!
 
 - 🌱 Estudando Ciência da Computação;
 - 🤔 Procuro ajuda com exercícios da Faculdade;
