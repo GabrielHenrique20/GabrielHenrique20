@@ -53,10 +53,9 @@
 
 <hr/>
 
-<div>
-    <img align="right" alt="Luffy-gif" height="150" style="border-radius:100px;" src="file:///C:/Users/Gabriel%20PC/Desktop/1abc183c8332b2c94d7562811afde10f.gif">
-  
-  </div>
+<body>
+    <img src="file:///C:/Users/Gabriel%20PC/Desktop/1abc183c8332b2c94d7562811afde10f.gif" alt="Luffy!">
+</body>
 
 <br/>
 
