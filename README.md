@@ -1,33 +1,76 @@
-### Olá! Eu sou Gabriel Henrique, estudante de Ciência da Computação na PUC MINAS!
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-- 📚 5° período de Ciência da Computação pela PUC Minas COREU;
-- 🖥 Programando em Java, C e C++;
-- 😄 Procuro ajuda com exercícios da Faculdade;
-- 👀 Fique a vontade para das umas espiadinhas em meus repositórios;
-- 🤍 Apaixonado por One Piece!!;
-- 📫 Contate-me pelo e-mail: gabrielhvo2015@gmail.com
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+
+<br/>
 
 <div align="center">
-  <a href="https://github.com/GabrielHenrique20">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielHenrique20&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenrique20&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
-  </div>
  
-   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
-  <div>
-    <img align="right" alt="Luffy-gif" height="150" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/963867196889649164/983456385587097610/download.jpg">
-  
-  </div>
-  
-  
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
 
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sales.muniz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
