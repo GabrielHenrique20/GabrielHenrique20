@@ -12,7 +12,7 @@
 - 🖥 Programando em Java, C e C++;
 - 😄 Procuro ajuda com exercícios da Faculdade;
 - 👀 Fique a vontade para das umas espiadinhas em meus repositórios;
-- 🤍 Apaixonado por One Piece!!;
+- ❤️‍🔥 Apaixonado por One Piece!!;
 - 📫 Contate-me pelo e-mail: gabrielhvo2015@gmail.com
 
  </div>
