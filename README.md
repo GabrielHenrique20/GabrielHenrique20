@@ -50,6 +50,8 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenrique20&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
+<hr>
+
 <div align="center" dir="auto">
   <div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">📲Contact me</h1><a id="user-content-contact-me" class="anchor-element" aria-label="Permalink: 📲Contact me" href="#contact-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div><br>
   <a href="https://instagram.com/danielsalgado.07?igshid=YmMyMTA2M2Y=" rel="nofollow"><img src="https://camo.githubusercontent.com/5fe8416cd5ba128163da401b036070cff85f0004eda8aa86575aaa1e93b1b5af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
