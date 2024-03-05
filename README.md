@@ -54,31 +54,7 @@
 
 <hr/>
 
-<hr/>
 
-<h2 align="center">🔗 Redes Sociais 🔗</h2>
-<br/>
-
-<div align="center">
-    <!-- Replit -->
-    <a href="https://replit.com/@SeuUsuario" target="_blank">
-        <img src="https://img.shields.io/badge/replit-1D202B?style=for-the-badge&logo=replit&logoColor=white" />
-    </a>
-
-    <!-- Gmail -->
-    <a href="mailto:seuemail@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-
-    <!-- Instagram -->
-    <a href="https://www.instagram.com/seu_usuario_instagram/" target="_blank">
-        <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-</div>
-
-<br/><br/>
-
-<hr/>
 
 <body>
     <img src="https://cdn.discordapp.com/attachments/963867128249851995/1214636945628725298/1abc183c8332b2c94d7562811afde10f.gif?ex=65f9d5ce&is=65e760ce&hm=4b2982605bc7c1d2da4cca9d728c5f69daa9178f50be8d69b3c2761c5e174b73&" alt="Luffy!">
