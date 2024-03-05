@@ -53,6 +53,11 @@
 
 <hr/>
 
+<div>
+    <img align="right" alt="Luffy-gif" height="150" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/963867196889649164/983456385587097610/download.jpg">
+  
+  </div>
+
 <br/>
 
 <br/>
