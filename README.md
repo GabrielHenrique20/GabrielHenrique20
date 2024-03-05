@@ -54,7 +54,7 @@
 <hr/>
 
 <div>
-    <img align="right" alt="Luffy-gif" height="150" style="border-radius:100px;" src="https://cdn.discordapp.com/attachments/963867196889649164/983456385587097610/download.jpg">
+    <img align="right" alt="Luffy-gif" height="150" style="border-radius:100px;" src="file:///C:/Users/Gabriel%20PC/Desktop/1abc183c8332b2c94d7562811afde10f.gif">
   
   </div>
 
