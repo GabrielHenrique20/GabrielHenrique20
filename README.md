@@ -54,7 +54,7 @@
 <hr/>
 
 <body>
-    <img src="file:///C:/Users/Gabriel%20PC/Desktop/1abc183c8332b2c94d7562811afde10f.gif" alt="Luffy!">
+    <img src="file:///C:/Users/Gabriel%20PC/Desktop/609737272e4d02033db6909e17d7eb44.jpg" alt="Luffy!">
 </body>
 
 <br/>
