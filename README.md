@@ -62,7 +62,7 @@
 
 <body>
     <div align="center">
-        <img src="https://cdn.discordapp.com/attachments/963867128249851995/1214636945628725298/1abc183c8332b2c94d7562811afde10f.gif?ex=65f9d5ce&is=65e760ce&hm=4b2982605bc7c1d2da4cca9d728c5f69daa9178f50be8d69b3c2761c5e174b73&"
+        <img src="https://cdn.discordapp.com/attachments/963867128249851995/1240028921441812561/luffy-gear-5.gif?ex=6645126d&is=6643c0ed&hm=f7ad5f87922c41851368edab4ec90aab8fb13cf76fc1f024909c91a6ec0e01c0&"
             alt="Luffy!" width="750">
     </div>
 </body>
