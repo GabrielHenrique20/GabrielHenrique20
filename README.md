@@ -8,7 +8,7 @@
 
 <div align="center">
  
- - 📚 5° período de Ciência da Computação pela PUC Minas COREU;
+ - 📚 6° período de Ciência da Computação pela PUC Minas COREU;
 - 🖥 Programando em Java, C e C++;
 - 😄 Procuro ajuda com exercícios da Faculdade;
 - 👀 Fique a vontade para dar umas espiadinhas em meus repositórios;
