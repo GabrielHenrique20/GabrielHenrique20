@@ -61,9 +61,9 @@
   <h2 dir="auto"></h2>
 
 <div style="display: flex; justify-content: center;">
-  <div style="width: 90%;">
+  <div style="width: 100%;">
     <img src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/one-piece-luffy.gif" alt="Monkey D. Luffy" style="width: 100%;">
-    <h3>______________________________________________________________________________________________________________________________________</h3>
+    <h3>_____________________________________________________________</h3>
   </div>
 </div>
 <div style="display: flex; justify-content: center;">
