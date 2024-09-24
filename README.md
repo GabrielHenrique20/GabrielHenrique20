@@ -64,6 +64,7 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/one-piece-luffy.gif" alt="Monkey D. Luffy" style="width: 80%; max-width: 500px;">
+<div align="center" style="margin-top: 50px;">
+  <img src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/one-piece-luffy.gif" alt="Monkey D. Luffy" style="width: 100%; max-width: 800px;">
 </div>
+
