@@ -67,6 +67,6 @@
 <h3>‎‎ </h3>
 
 <div align="center" style="margin-top: 50px;">
-  <img src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/one-piece-luffy.gif" alt="Monkey D. Luffy" style="width: 100%; max-width: 800px;">
+  <img src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/one-piece-luffy.gif" alt="Monkey D. Luffy" style="width: 200%; max-width: 800px;">
 </div>
 
