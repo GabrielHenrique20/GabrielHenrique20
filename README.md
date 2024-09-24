@@ -68,5 +68,4 @@
 
 <div align="center">
   <img src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/one-piece-luffy.gif" alt="Monkey D. Luffy" style="width: 80%; max-width: 500px;">
-  <h3>_____________________________________________________________</h3>
 </div>
