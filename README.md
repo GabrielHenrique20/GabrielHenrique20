@@ -60,12 +60,13 @@
   </div>
   <h2 dir="auto"></h2>
 
-<body>
-    <div align="center">
-        <img src="https://cdn.discordapp.com/attachments/963867128249851995/1240028921441812561/luffy-gear-5.gif?ex=6645126d&is=6643c0ed&hm=f7ad5f87922c41851368edab4ec90aab8fb13cf76fc1f024909c91a6ec0e01c0&"
-            alt="Luffy!" width="750">
-    </div>
-</body>
+<div style="display: flex; justify-content: center;">
+  <div style="width: 90%;">
+    <img src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/one-piece-luffy.gif" alt="Monkey D. Luffy" style="width: 100%;">
+    <h3>______________________________________________________________________________________________________________________________________</h3>
+  </div>
+</div>
+<div style="display: flex; justify-content: center;">
 
 </html>
 
