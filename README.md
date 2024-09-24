@@ -9,18 +9,17 @@
 <div align="center">
  
  - 📚 6° período de Ciência da Computação pela PUC Minas COREU;
-- 🖥 Programando em Java, C e C++;
-- 😄 Procuro ajuda com exercícios da Faculdade;
-- 👀 Fique a vontade para dar umas espiadinhas em meus repositórios;
-- ❤️‍🔥 Apaixonado por One Piece!;
-- 📫 Contate-me pelo e-mail: gabrielhvo2015@gmail.com
+ - 🖥 Programando em Java, C e C++;
+ - 😄 Procuro ajuda com exercícios da Faculdade;
+ - 👀 Fique à vontade para dar umas espiadinhas em meus repositórios;
+ - ❤️‍🔥 Apaixonado por One Piece!;
+ - 📫 Contate-me pelo e-mail: gabrielhvo2015@gmail.com
 
- </div>
- 
+</div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Linguagens e Ferramentas⚒️</h2>
+<hr/>
+
+<h2 align="center">⚒️ Linguagens e Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github" />
@@ -34,7 +33,6 @@
   <h2>🐍 Minhas Comissões 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
   <br/><br/><br/>
 </div>
 
@@ -42,7 +40,7 @@
 
 <h2 align="center">⚡ Status ⚡</h2>
 <br>
-<div align=center>
+<div align="center">
   <a href="https://github.com/GabrielHenrique20">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielHenrique20&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenrique20&layout=compact&langs_count=7&theme=dark"/>
@@ -50,24 +48,25 @@
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenrique20&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<hr>
+<hr/>
 
 <div align="center" dir="auto">
-  <div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">📞 Redes Socias 📞</h1><a id="user-content-contact-me" class="anchor-element" aria-label="Permalink: 📲Contact me" href="#contact-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div><br>
-  <a href="https://www.instagram.com/gabsh2003/" rel="nofollow"><img src="https://camo.githubusercontent.com/5fe8416cd5ba128163da401b036070cff85f0004eda8aa86575aaa1e93b1b5af/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a href="mailto:gabrielhvo2015@gmail.com"><img src="https://camo.githubusercontent.com/71a0f4bfcf1f2220e2b1c246ac2ee681c47ee914d1c1f0e27a0e6c9ac2e9f134/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
-  <a href="https://replit.com/@GabrielHenri135" rel="nofollow"><img src="https://camo.githubusercontent.com/e1cfb40ff415bfca6b550c845ebee8f83fa787904fe224b4115d10ad8da86dd2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7265706c69742d3636373838313f7374796c653d666f722d7468652d6261646765266c6f676f3d7265706c6974266c6f676f436f6c6f723d6f72616e6765" data-canonical-src="https://img.shields.io/badge/replit-667881?style=for-the-badge&amp;logo=replit&amp;logoColor=orange" style="max-width: 100%;"></a>
-  </div>
-  <h2 dir="auto"></h2>
-
-<div style="display: flex; justify-content: center;">
-  <div style="width: 100%;">
-    <img src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/one-piece-luffy.gif" alt="Monkey D. Luffy" style="width: 200%;">
-    <h3>_____________________________________________________________</h3>
-  </div>
+  <h1>📞 Redes Sociais 📞</h1>
+  <br>
+  <a href="https://www.instagram.com/gabsh2003/" rel="nofollow">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:gabrielhvo2015@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://replit.com/@GabrielHenri135" rel="nofollow">
+    <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=orange" alt="Replit">
+  </a>
 </div>
-<div style="display: flex; justify-content: center;">
 
-</html>
+<hr/>
 
-
+<div align="center">
+  <img src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/one-piece-luffy.gif" alt="Monkey D. Luffy" style="width: 80%; max-width: 500px;">
+  <h3>_____________________________________________________________</h3>
+</div>
