@@ -8,11 +8,14 @@
 
 <div align="center">
  
- - 📚 6° período de Ciência da Computação pela PUC Minas COREU;
- - 🖥 Programando em Java, C e C++;
+ - 📚 6 períodos (3 anos de experiência) em Ciência da Computação pela PUC Minas COREU;
+ - 🆕 1º período de Engenharia da Computação pela PUC Minas Coreu;
+ - 🖥 Programando em Java, C, C++, html/css e Python;
+ - 🔎 Atualmente estudando com foco em IA, Circuitos Elétricos e Banco de Dados - 💼 Buscando trabalhar na área
  - 😄 Procuro ajuda com exercícios da Faculdade;
  - 👀 Fique à vontade para dar umas espiadinhas em meus repositórios;
- - ❤️‍🔥 Apaixonado por One Piece!;
+ - ❤️‍🔥 Apaixonado por One Piece, Camaro e Canadá!;
+ - 📕 Proeficiência linguística: português e inglês (avançado, nível B2)
  - 📫 Contate-me pelo e-mail: gabrielhvo2015@gmail.com
 
 </div>
