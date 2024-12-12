@@ -15,7 +15,7 @@
  - 😄 Procuro ajuda com exercícios da Faculdade;
  - 👀 Fique à vontade para dar umas espiadinhas em meus repositórios;
  - ❤️‍🔥 Apaixonado por One Piece, animais e Canadá!;
- - 📕 Proeficiência linguística: português e inglês (avançado, nível B2)
+ - 📕 Proeficiência linguística: português e inglês (avançado, nível B2);
  - 📫 Contate-me pelo e-mail: gabrielhvo2015@gmail.com
 
 </div>
