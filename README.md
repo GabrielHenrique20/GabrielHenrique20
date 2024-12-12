@@ -70,6 +70,6 @@
 <h3>‎‎ </h3>
 
 <div align="center" style="margin-top: 80px;">
-  <img src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/luffy-gear-5-pose.jpg" alt="Luffy" style="width: 100%; max-width: 800px;">
+  <img src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/one-piece-gear-5-imagem-2-1024x576.jpg" alt="Luffy" style="width: 100%; max-width: 800px;">
 </div>
 
