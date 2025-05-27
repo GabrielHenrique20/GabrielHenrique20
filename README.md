@@ -62,11 +62,10 @@
   <a href="mailto:gabrielhvo2015@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://replit.com/@GabrielHenri135" rel="nofollow">
-    <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=orange" alt="Replit">
+  <a href="https://www.linkedin.com/in/gabriel-henrique-108696368/" rel="nofollow">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
-
 <h3>‎‎ </h3>
 
 <div align="center" style="margin-top: 80px;">
