@@ -62,7 +62,7 @@
   <a href="mailto:gabrielhvo2015@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="www.linkedin.com/in/gabriel-henrique-173572368" rel="nofollow">
+  <a href="www.linkedin.com/in/gabriel-henrique-173572368/" rel="nofollow">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
