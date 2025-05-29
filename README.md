@@ -69,6 +69,10 @@
 <h3>‎‎ </h3>
 
 <div align="center" style="margin-top: 80px;">
-  <img src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/1286602.jpg" alt="Luffy" style="width: 100%; max-width: 800px;">
+  <img src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/1286602.jpg" alt="4 Younkous" style="width: 100%; max-width: 800px;">
+</div>
+
+<div align="center" style="margin-top: 80px;">
+  <img src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/gear%205.png" alt="Luffy GEAR 5" style="width: 100%; max-width: 800px;">
 </div>
 
