@@ -69,6 +69,6 @@
 <h3>‎‎ </h3>
 
 <div align="center" style="margin-top: 80px;">
-  <img src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/1325915.png" alt="Luffy" style="width: 100%; max-width: 800px;">
+  <img src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/1286602.jpg" alt="Luffy" style="width: 100%; max-width: 800px;">
 </div>
 
