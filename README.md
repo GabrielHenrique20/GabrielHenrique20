@@ -76,7 +76,7 @@
   <img 
     src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/1286602.jpg" 
     alt="4 Younkous" 
-    style="width: 100%; max-width: 700px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"
+    style="width: 100%; max-width: 700px; border-radius: 15px; border: 4px solid white; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"
   >
 </div>
 
@@ -84,7 +84,8 @@
   <img 
     src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/gear%205.png" 
     alt="Luffy GEAR 5" 
-    style="width: 100%; max-width: 700px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"
+    style="width: 100%; max-width: 700px; border-radius: 15px; border: 4px solid white; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"
   >
 </div>
+
 
