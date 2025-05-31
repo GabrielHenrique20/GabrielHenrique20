@@ -72,11 +72,19 @@
 </div>
 <h3>‎‎ </h3>
 
-<div align="center" style="margin-top: 80px;">
-  <img src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/1286602.jpg" alt="4 Younkous" style="width: 100%; max-width: 800px;">
+<div align="center" style="margin-top: 50px;">
+  <img 
+    src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/1286602.jpg" 
+    alt="4 Younkous" 
+    style="width: 100%; max-width: 700px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"
+  >
 </div>
 
-<div align="center" style="margin-top: 80px;">
-  <img src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/gear%205.png" alt="Luffy GEAR 5" style="width: 100%; max-width: 800px;">
+<div align="center" style="margin-top: 40px;">
+  <img 
+    src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/gear%205.png" 
+    alt="Luffy GEAR 5" 
+    style="width: 100%; max-width: 700px; border-radius: 15px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"
+  >
 </div>
 
