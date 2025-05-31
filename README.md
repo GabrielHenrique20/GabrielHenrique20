@@ -25,9 +25,13 @@
 <h2 align="center">⚒️ Linguagens e Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=javascript,c,cpp,java" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,figma" />
+    <img src="https://skillicons.dev/icons?i=javascript,c,cpp,java,csharp,sql" /><br>
+    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino Badge" />
+    <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 Badge" />
+    <img src="https://img.shields.io/badge/Circuitos%20Eletrônicos-blue?style=for-the-badge" alt="Circuitos Eletrônicos Badge" />
 </div>
+
 
 <br/>
 <hr/>
