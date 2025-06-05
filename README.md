@@ -82,7 +82,7 @@
 
 <div align="center" style="margin-top: 40px;">
   <img 
-    src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/gear%205.png" 
+    src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/Shidou.gif" 
     alt="Luffy GEAR 5" 
     style="width: 100%; max-width: 700px; border-radius: 15px; border: 4px solid white; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"
   >
