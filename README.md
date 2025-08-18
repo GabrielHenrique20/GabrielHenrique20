@@ -82,7 +82,7 @@
 
 <div align="center" style="margin-top: 40px;">
   <img 
-    src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/simoHaya.gif" 
+    src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/morte%20branca....png" 
     alt="morte branca..." 
     style="width: 100%; max-width: 700px; border-radius: 15px; border: 4px solid white; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"
   >
