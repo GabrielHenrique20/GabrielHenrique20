@@ -80,20 +80,21 @@
   >
 </div>
 
-<div align="center" style="margin-top: 40px;">
+<div align="center" style="display: flex; justify-content: center; gap: 25px; margin-top: 40px; flex-wrap: wrap;">
+
   <img 
     src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/Tesla%201.gif" 
-    alt="Avante!!!." 
-    style="width: 100%; max-width: 700px; border-radius: 15px; border: 4px solid white; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"
+    alt="Avante!!!" 
+    style="width: 100%; max-width: 450px; border-radius: 20px; border: 6px solid #00BFFF; box-shadow: 0 8px 25px rgba(0,0,0,0.4);"
   >
-</div>
 
-<div align="center" style="margin-top: 40px;">
   <img 
     src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/tesla%202.gif" 
     alt="Nikola Tesla!" 
-    style="width: 100%; max-width: 700px; border-radius: 15px; border: 4px solid white; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"
+    style="width: 100%; max-width: 450px; border-radius: 20px; border: 6px solid #FFD700; box-shadow: 0 8px 25px rgba(0,0,0,0.4);"
   >
+
 </div>
+
 
 
