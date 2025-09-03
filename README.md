@@ -84,12 +84,12 @@
   <img 
     src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/Tesla%201.gif" 
     alt="Nikola Tesla!!" 
-    style="width: 100%; max-width: 1000px; border-radius: 15px; border: 4px solid white; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"
+    style="width: 100%; width: 1200px; border-radius: 15px; border: 4px solid white; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"
   >
   <img 
     src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/tesla%202.gif" 
     alt="Nikola Tesla!!" 
-    style="width: 100%; max-width: 1000px; border-radius: 15px; border: 4px solid white; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"
+    style="width: 100%; width: 1200px; border-radius: 15px; border: 4px solid white; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"
   >
 </div>
 
