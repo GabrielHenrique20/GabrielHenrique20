@@ -82,13 +82,8 @@
 
 <div align="center" style="margin-top: 50px;">
   <img 
-    src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/Tesla%201.gif" 
-    alt="Nikola Tesla!!" 
-    style="width: 100%; max-width: 1200px; border-radius: 15px; border: 4px solid white; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"
-  >
-  <img 
-    src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/tesla%202.gif" 
-    alt="Nikola Tesla!!" 
+    src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/Garou%20Vs%20Saitama.png" 
+    alt="Monstro..." 
     style="width: 100%; max-width: 1200px; border-radius: 15px; border: 4px solid white; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"
   >
 </div>
