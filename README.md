@@ -82,7 +82,7 @@
 
 <div align="center" style="margin-top: 50px;">
   <img 
-    src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/Simplesmente%20Seth.png" 
+    src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/Simplesmente%20Seth..png" 
     alt="Monstro..." 
     style="width: 100%; max-width: 1200px; border-radius: 15px; border: 4px solid white; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"
   >
