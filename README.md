@@ -74,8 +74,8 @@
 
 <div align="center" style="margin-top: 50px;">
   <img 
-    src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/1286602.jpg" 
-    alt="4 Younkous" 
+    src="https://github.com/GabrielHenrique20/GabrielHenrique20/blob/main/FRIEREN.jpeg" 
+    alt="Frieren" 
     style="width: 100%; max-width: 700px; border-radius: 15px; border: 4px solid white; box-shadow: 0 4px 15px rgba(0,0,0,0.2);"
   >
 </div>
