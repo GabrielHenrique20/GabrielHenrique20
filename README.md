@@ -8,7 +8,7 @@
 
 <div align="center">
  
- - 📚 6 períodos (3 anos de experiência) em Ciência da Computação pela PUC Minas COREU;
+ - 📚 2.5 anos de experiência em Ciência da Computação pela PUC Minas COREU;
  - 🆕 Engenharia da Computação pela PUC Minas COREU;
  - 🖥 Programando em Java, C, C++;
  - 🔎 Atualmente estudando com foco em IA, Engenharia de Dados e Nuvem
