@@ -11,7 +11,7 @@
  - 📚 2.5 anos de experiência em Ciência da Computação pela PUC Minas COREU;
  - 🆕 Engenharia da Computação pela PUC Minas COREU;
  - 🖥 Programando em Java, C, C++;
- - 🔎 Atualmente estudando com foco em IA, Engenharia de Dados e Nuvem
+ - 🔎 Atualmente estudando com foco em IA, Engenharia de Dados e Nuvem;
  - 😄 Procuro ajuda com exercícios da Faculdade;
  - 👀 Fique à vontade para dar umas espiadinhas em meus repositórios;
  - ❤️‍🔥 Apaixonado por One Piece, animais e Canadá!;
