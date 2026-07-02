@@ -9,7 +9,7 @@
 <div align="center">
  
  - 📚 6 períodos (3 anos de experiência) em Ciência da Computação pela PUC Minas COREU;
- - 🆕 3º período de Engenharia da Computação pela PUC Minas COREU;
+ - 🆕 Engenharia da Computação pela PUC Minas COREU;
  - 🖥 Programando em Java, C, C++;
  - 🔎 Atualmente estudando com foco em IA, Processamento de Dados e Banco de Dados - 💼 Buscando trabalhar na área
  - 😄 Procuro ajuda com exercícios da Faculdade;
